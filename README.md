@@ -7,7 +7,7 @@
 | Status | Name | Description | My Role |
 |-|-|-|-|
 |⭐Developing | [AutoWater](https://github.com/XCM42-Orion/AutoWater) | 基于[Napcat](https://github.com/NapNeko/NapCatQQ)的全自动水群/Bot框架 | Main Developer |
-|🔧Maintaining | [astrbot_plugin_astrometry](https://github.com/XCM42-Orion/astrbot_plugin_astrmetry) | Astrbot插件，支持接入Astrometry.net进行星空解析 |  Main Developer |
+|🔧Maintaining | [astrbot_plugin_astrmetry](https://github.com/XCM42-Orion/astrbot_plugin_astrmetry) | Astrbot插件，支持接入Astrometry.net进行星空解析 |  Main Developer |
 
 ### Work Experience 📝 
 
