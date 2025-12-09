@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-我是**M42**，现就读于清华大学新雅书院的大一学生。随缘写一点python。
+我是**M42**，现就读于清华大学新雅书院的大一学生。
+
+随缘写一点Python。现在正在努力学习React，努力学习Typescript，努力学习CSS，努力学习HTML。
 
 ### Projects 📑
 
