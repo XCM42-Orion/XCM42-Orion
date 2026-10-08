@@ -2,7 +2,7 @@
 
 我是**M42**，现就读于清华大学新雅书院-为先书院的大二学生。
 
-随缘写一点Python和React。正在努力学习Golang，努力学习Rust，努力学习Debian。
+随缘写一点Python和React。正在努力学习Golang和Debian。
 
 ### Projects 📑
 
@@ -21,6 +21,6 @@
 
 - (2025~2026) [Einsia](https://einsia.ai) 前端工程师
 
-- (2026~) [Einsia Lab](https://lab.einsia.ai) 神必科研人（大概吧
+- (2026~) [Einsia Lab](https://lab.einsia.ai) 算法研究员
 
 请关注[我的blog](https://m42-blog.chtne.com)！
